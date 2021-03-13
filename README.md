@@ -1,4 +1,4 @@
-![Alt text](./img/gala.jpg "Title")
+![Alt text](galaxies.jpg "Title")
 ### Hi there 👋 , I am Charles
 
 <!--
