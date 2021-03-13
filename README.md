@@ -1,3 +1,4 @@
+![Alt text](./img/gala.jpg "Title")
 ### Hi there 👋 , I am Charles
 
 <!--
