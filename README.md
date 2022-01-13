@@ -6,8 +6,8 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on a web Calculator
-- 🌱 I’m currently learning javaScript
+- 🔭 I'm working on an ERP project
+- 🌱 I’m currently learning Angular
 - 👯 I’m looking to collaborate on an E- Estate management project
 - 🤔 I’m looking for help with - JAVA
 - 💬 Ask me about - javaScript
