@@ -1,4 +1,4 @@
-![Alt text](programmer.gif "Title")
+![Alt text](image.gif "Title")
 ### Hi there 👋 , I am Charles
 
 <!--
