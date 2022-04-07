@@ -1,4 +1,4 @@
-![Alt text](galaxies.jpg "Title")
+![Alt text](programmer.gif "Title")
 ### Hi there 👋 , I am Charles
 
 <!--
