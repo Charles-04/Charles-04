@@ -13,7 +13,6 @@ Here are some ideas to get you started:-->
 - 💬 Ask me about - javaScript
 - 📫 How to reach me: Twitter @CharlesCeeJay5 or LinkedIn @ Chibueze Charles
 - ❣️ I love : TypeScript
-- 😄 Pronouns: He,him
 - ⚡ Fun fact: The crazier, the merrier
 - 🤗 You're welcome to collaborate with me
 
