@@ -7,11 +7,11 @@
 Here are some ideas to get you started:-->
 - 🖥️ I'm a MERN Stack developer
 - 🔭 I'm working on an Education management site
-- 🌱 I’m currently learning Nestjs
+- 🌱 I’m currently learning C# and dotnet Framework 
 - 👯 I’m looking to collaborate on a Library management project
 - 🤔 I’m looking for mentorship
 - 💬 Ask me about - javaScript
-- 📫 How to reach me: Twitter @CharlesCeeJay5 or LinkedIn @ Chibueze Charles
+- 📫 How to reach me: Twitter @CharlesCeeJay5 or LinkedIn @ChibuezeCharles
 - ❣️ I love : TypeScript
 - ⚡ Fun fact: The crazier, the merrier
 - 🤗 You're welcome to collaborate with me
