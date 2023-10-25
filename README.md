@@ -1,6 +1,6 @@
 ![Alt text](image.gif "Title")
 # 💫 About Me:
-🖥️ I write Dotnet and JavaScript<br>🔭 I'm working on a Poem Blog application<br>🌱 I’m currently learning web development using Dotnet<br>👯 I’m looking to collaborate on several projects<br>🤔 I’m looking for mentorship<br>💬 Ask me about - Poetry, C#<br>📫 How to reach me: Twitter @CharlesCeeJay5 or LinkedIn @ChibuezeCharles<br>❣️ I love: TypeScript<br>⚡ Fun fact: The crazier, the merrier<br>🤗 You're welcome to collaborate with me
+🖥️ I write Dotnet and TypeScript<br>🔭 I'm working on a Poem Blog application<br>🌱 I’m currently learning web development using Dotnet<br>👯 I’m looking to collaborate on several projects<br>🤔 I’m looking for mentorship<br>💬 Ask me about - Poetry, C#<br>📫 How to reach me: Twitter @CharlesCeeJay5 or LinkedIn @ChibuezeCharles<br>❣️ I love: TypeScript<br>⚡ Fun fact: The crazier, the merrier<br>🤗 You're welcome to collaborate with me
 
 
 ## 🌐 Socials:
